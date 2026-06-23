@@ -50,6 +50,7 @@ TikTok World 2026にてByteDanceが発表した主要新機能：
 | **Branded Buzz** | 広告主がクリエイター大規模コラボを展開→短期間で数百本のクリエイター動画を生成してバズを創出 |
 | **Reference to Video** | Symphony Creative Studioの新機能。特定の商品・画像を動画の任意タイミングに精密配置できる高度クリエイティブ制御 |
 | **GMV Max（拡張版）** | TikTok Shopのキャンペーン自動化ソリューション。アフィリエイトコスト・クーポン・手数料を含む利益最適化が可能に |
+| **TikTok GO** | TikTok World 2026で発表された新コマース・ロイヤルティ統合機能。クリエイターが動画内でブッキング（予約・購入）を促進→ユーザーがTikTokアプリ内で完結→クリエイターにコミッション発生。TikTokエコシステム内の滞在を促す設計 |
 
 ## Creator Rewards Program RPM（2026年実績値）
 
