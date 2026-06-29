@@ -13,7 +13,7 @@ tags:
 
 | プログラム | 条件 | 収益 |
 |-----------|------|------|
-| TikTok Creator Rewards Program | フォロワー10,000人・1分以上動画・30日以内に**10万回再生** | 高RPM（旧Creator Fundの5〜8倍） |
+| TikTok Creator Rewards Program | フォロワー10,000人・1分以上動画・30日以内に**10万回再生** | 高RPM（旧Creator Fundの**最大20倍**・公式発表）|
 | TikTok Shop | フォロワー1,000人〜 | コマース手数料 |
 | ブランドスポンサー | ニッチ次第 | マイクロ：数万〜数百万円 |
 | アフィリエイト | TikTok Shop連携 | 販売ごとにコミッション |
