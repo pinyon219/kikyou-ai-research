@@ -96,9 +96,56 @@ TikTok World 2026にてByteDanceが発表した主要新機能：
 - TikTok Shop（コマース機能）は日本未開放（2026年6月時点）
 - TikTok World 2026でeコマース・AI広告ツールの大幅拡張を発表
 
+## TikTok Symphony Agent：Cannes Lions 2026 発表（2026年6月22〜23日）
+
+TikTok World 2026に続き、カンヌライオンズ国際クリエイティビティフェスティバル（2026年6月22日）にてTikTokが主要アップデートを発表。
+
+### Symphony Agent（エージェント型AI広告ツール）
+
+- **テキストプロンプト・画像・動画例**からビデオ広告キャンペーンを生成するエージェント型AI
+- 文化的インテリジェンスを組み込み「TikTokファースト」なキャンペーンをスピーディに生成
+- 3プラットフォームを横断して動作：
+  - **Symphony Creative Studio**：AIチャット経由でブランド目標×プラットフォームインサイト×パフォーマンスシグナルを組み合わせた高品質TikTok広告を数分で生成
+  - **Content Suite（AI Search機能）**：クリエイティブニーズを入力 → 数千本の関連動画から最適コンテンツをAIが発見・推薦
+  - **TikTok One**：クリエイター発見とキャンペーン実行をシームレス化
+
+### Custom Creator Networks（カスタムクリエイターネットワーク）
+
+- Content Suite内の新機能。ブランドが**独自のクリエイタープール**（社員・パートナー・ブランドアンバサダーも含む）を構築可能
+- 構築したプールに対してキャンペーンブリーフを配信 → 既存のブランド関連動画を広告に転換
+- **スターバックス**が最初の導入ブランドとして「Green Apron Creator Program」で活用予定
+
+### Dentsu統合
+
+- Cannes Lions 2026でDentsuとの統合も同時発表
+- エンタープライズ向けの大規模キャンペーン展開が可能に
+
+### 安全機能
+
+- AIラベル・不可視透かし・コンテンツモデレーションフィルターを内蔵
+
+## Symphony Studio July 2026アップデート（2026年7月）
+
+TikTok World '26（5月）以降の最大の変更をまとめた7月アップデート：
+
+| 新機能 | 内容 |
+|--------|------|
+| **Reference to Video** | プロンプトに参考画像を入れるだけでなく、生成動画の**特定タイミングに特定商品・画像を精密配置**可能に |
+| **Auto Selection** | クリエイティブ・クリエイター動画・商品素材・Symphony生成動画を一元管理 → AIがオーディエンスごとに最適なものを自動選択、リアルタイムで予算配分を調整 |
+| **Voiceover Avatars** | ライセンス取得済みの人間俳優の声でスクリプトをナレーション。**30言語以上**に対応、リップシンク保持 |
+| **Product Avatars** | アバターが画面上に登場し**商品と直接インタラクション**。ECブランドのプロダクトデモ動画向け |
+| **AI Dubbing（拡張）** | 既存動画のボイスオーバーを多言語に翻訳しつつ**リップシンクを維持**。1市場で成功した動画を他市場向けに低コストで展開可能 |
+
+> Dreamina Seedance 2.0統合により、プロンプトから完成動画まで**5〜15分**で生成。制作時間を**50〜70%短縮**、初回出力の使用可能率**80%以上**（編集不要）を実現。
+
 ## 参考記事
 
 - [TikTok World 2026 unveils AI ad tools and TikTok GO（ContentGrip）](https://www.contentgrip.com/tiktok-world-2026-ai-ad-tools/)
+- [TikTok Unveils Symphony Agent, Custom Creator Networks At Cannes Lions 2026（NetInfluencer）](https://www.netinfluencer.com/tiktok-unveils-symphony-agent-custom-creator-networks-at-cannes-lions-2026/)
+- [TikTok Announces New Symphony Agent AI and Custom Creator Network at Cannes Lions 2026（Hello Partner）](https://hellopartner.com/breaking-tiktok-announces-new-symphony-agent-ai-and-custom-creator-network-at-cannes-lions-2026/)
+- [TikTok Symphony Agent: Cannes 2026 Creative AI Guide（DigitalApplied）](https://www.digitalapplied.com/blog/tiktok-symphony-agent-cannes-2026-creative-ai-guide)
+- [Latest features on TikTok Symphony Studio（July 2026 update）（Vidjet）](https://www.vidjet.com/blog/latest-features-on-tiktok-symphony-studio-july-2026-update)
+- [TikTok AI Creative Studio 2026: Symphony & Dreamina（BrandClickX）](https://brandclickx.com/tiktok-ai-creative-studio-2026-symphony-guide/)
 - [TikTok World '26: AI-Powered Innovations（TikTok Newsroom）](https://newsroom.tiktok.com/tiktok-world-26-turning-discovery-into-business-growth-with-ai-powered-innovations-vertical-experiences-and-high-impact-brand-solutions?lang=en)
 - [Top 15 Best AI TikTok Shop Creative Tools in H1 2026（Rewarx）](https://www.rewarx.com/blogs/top-15-best-ai-tiktok-shop-creative-tools-in-h1-2026)
 - [TikTok Monetization Tools for Creators: Complete 2026 Guide（Sozee）](https://sozee.ai/resources/tiktok-monetization-tools-creators-2026/)
